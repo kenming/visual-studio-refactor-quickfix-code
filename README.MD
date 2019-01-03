@@ -9,7 +9,7 @@ https://docs.microsoft.com/zh-tw/visualstudio/ide/refactoring-in-visual-studio?v
 幾個常用重構類型的簡單說明與操作錄影教學：
 
 * 變更方法簽章 (Change Method signature)  
-    https://facebook.com/groups/softthinking/
+    https://www.facebook.com/groups/softthinking/permalink/967175543488016/
 
 * 重新命名 (Rename Code Symbol)
 * 提煉方法 (eXtract method)
