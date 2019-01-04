@@ -13,7 +13,8 @@ https://docs.microsoft.com/zh-tw/visualstudio/ide/refactoring-in-visual-studio?v
 
 * 重新命名 (Rename Code Symbol)  
     https://www.facebook.com/groups/softthinking/permalink/967471483458422/
-* 提煉方法 (eXtract method)
+* 提煉方法 (eXtract method)  
+    https://www.facebook.com/groups/softthinking/permalink/967803100091927/
 * 提煉介面 (eXtract interface)
 * 封裝欄位 (encapsulate field)
 * 移除暫存變數 (inline temporary variable)
