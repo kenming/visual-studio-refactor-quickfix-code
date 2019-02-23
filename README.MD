@@ -17,7 +17,8 @@ https://docs.microsoft.com/zh-tw/visualstudio/ide/refactoring-in-visual-studio?v
     https://www.facebook.com/groups/softthinking/permalink/967803100091927/
 * 提煉介面 (eXtract interface)  
     https://www.facebook.com/groups/softthinking/permalink/967803100091927/
-* 封裝欄位 (encapsulate field)
+* 封裝欄位 (encapsulate field)  
 	https://www.facebook.com/groups/softthinking/permalink/996919480513622/
-* 移除暫存變數 (inline temporary variable)
+* 移除暫存變數 (inline temporary variable)  
+	https://www.facebook.com/groups/softthinking/permalink/997501143788789/
 * 使用明確的型態 (explicit type)
