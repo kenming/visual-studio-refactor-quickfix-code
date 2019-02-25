@@ -10,7 +10,6 @@ https://docs.microsoft.com/zh-tw/visualstudio/ide/refactoring-in-visual-studio?v
 
 * 變更方法簽章 (Change Method signature)  
     https://www.facebook.com/groups/softthinking/permalink/967175543488016/
-
 * 重新命名 (Rename Code Symbol)  
     https://www.facebook.com/groups/softthinking/permalink/967471483458422/
 * 提煉方法 (eXtract method)  
@@ -21,4 +20,5 @@ https://docs.microsoft.com/zh-tw/visualstudio/ide/refactoring-in-visual-studio?v
 	https://www.facebook.com/groups/softthinking/permalink/996919480513622/
 * 移除暫存變數 (inline temporary variable)  
 	https://www.facebook.com/groups/softthinking/permalink/997501143788789/
-* 使用明確的型態 (explicit type)
+* 使用明確的型態 (explicit type)  
+	https://www.facebook.com/groups/softthinking/permalink/998442383694665/
